@@ -1,8 +1,8 @@
 /*global $, jQuery, alert, console, window, document, angular*/
 /**
  *
- * @authors Ted Shiu (tedshd@gmail.com)
- * @date    2014-08-22 09:28:36
+ * @authors Nick Ho (nick77723@gmail.com)
+ * @date    2015-01-25 21:35:36
  * @version $Id$
  */
 
